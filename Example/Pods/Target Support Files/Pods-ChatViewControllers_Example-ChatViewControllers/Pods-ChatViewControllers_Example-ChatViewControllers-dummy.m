@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ChatViewControllers_Example_ChatViewControllers : NSObject
+@end
+@implementation PodsDummy_Pods_ChatViewControllers_Example_ChatViewControllers
+@end

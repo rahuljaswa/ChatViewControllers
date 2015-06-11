@@ -1,0 +1,17 @@
+PODS:
+  - ChatViewControllers (0.1.0)
+  - Kiwi (2.3.1)
+
+DEPENDENCIES:
+  - ChatViewControllers (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  ChatViewControllers:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ChatViewControllers: 42be888bb911cdbf71d2b183c8e6ee30aa1e2faf
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+
+COCOAPODS: 0.37.2

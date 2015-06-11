@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'ChatViewControllers_Example', :exclusive => true do
+  pod "ChatViewControllers", :path => "../"
+end
+
+target 'ChatViewControllers_Tests', :exclusive => true do
+  pod "ChatViewControllers", :path => "../"
+
+  pod 'Kiwi'
+end
